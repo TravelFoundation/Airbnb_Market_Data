@@ -1,4 +1,4 @@
-Airbnb Market Data
+Travel Short-term Rental Market Data Research
 ================
 
     ## This README is generated from README.Rmd
